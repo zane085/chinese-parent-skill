@@ -1,0 +1,8 @@
+interface:
+  display_name: "中式家长.skill"
+  short_description: "模拟典型中式父母的第一反应原话"
+  brand_color: "#B45309"
+  default_prompt: "Use $chinese-parent-skill to simulate how typical Chinese parents would respond to my choice."
+
+policy:
+  allow_implicit_invocation: true
